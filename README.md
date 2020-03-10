@@ -1,2 +1,3 @@
-# Practice Projects
-Write some small projects for practicing
+# Sort Code by semicolon
+
+Separate and order a long whole chunck of code. 
